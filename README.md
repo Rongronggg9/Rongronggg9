@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Rongronggg9's trophy](https://github-profile-trophy.vercel.app/?username=Rongronggg9&column=10)
+![Rongronggg9's trophy](https://github-profile-trophy.vercel.app/?username=Rongronggg9&column=7)
 
 <hr>
 
