@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Rongronggg9's trophy](https://github-profile-trophy.vercel.app/?username=Rongronggg9&column=7)
+![Rongronggg9's trophy](https://github-profile-trophy.vercel.app/?username=Rongronggg9&column=-1)
 
 <hr>
 
@@ -34,3 +34,4 @@ Here are some ideas to get you started:
 - 🍥 OS: Debian testing
 - 💬 Pronouns: she/her
 - 📫 E-mail: i#rong.moe
+- 📣 Babel: `en`, `yue`, `zh-Hans`, `zh-Hant`
