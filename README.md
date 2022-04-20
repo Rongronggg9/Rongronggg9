@@ -29,9 +29,9 @@ Here are some ideas to get you started:
 - 🎨 Graphic design: junior
 - 🖼️ Image manipulation: junior
 - 📷 Photography: junior
-- 🎬 NLE: junior
+- 🎬 Non-linear editing: junior
 - 📱 GUI: baby
 - 🍥 OS: Debian testing
 - 💬 Pronouns: she/her
 - 📫 E-mail: i#rong.moe
-- 📣 Babel: `en`, `yue`, `zh-Hans`, `zh-Hant`
+- 📣 Babel: `en`, `yue` (L1), `zh-Hans`, `zh-Hant`
