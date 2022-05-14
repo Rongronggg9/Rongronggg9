@@ -35,4 +35,4 @@ Here are some ideas to get you started:
 - 🍥 OS: Debian testing
 - 💬 Pronouns: she/her
 - 📫 E-mail: i#rong.moe
-- 📣 Babel: `en`, `yue` (L1), `zh-Hans`, `zh-Hant`
+- 📣 Babel: `	cmn`, `en`, `yue` (L1), `zh-Hans`, `zh-Hant`
