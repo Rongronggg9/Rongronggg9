@@ -15,13 +15,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Rongronggg9's trophy](https://github-profile-trophy.vercel.app/?username=Rongronggg9&column=-1)
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Rongronggg9&column=-1" alt="Rongronggg9's GitHub trophy">
+</div>
 
 <hr>
 
 [//]: https://github-readme-stats.vercel.app/api?username=Rongronggg9&count_private=true&show_icons=true&theme=buefy&custom_title=🧶%20Rongrong%20is%20vibrating
 
-<img align="right" src="https://github-readme-stats-rongronggg9.vercel.app/api?username=Rongronggg9&amp;count_private=true&amp;show_icons=true&amp;theme=buefy&amp;custom_title=🧶%20Rongrong%20is%20vibrating" alt="Rongronggg9's Github Stats" />
+<img align="right" src="https://github-readme-stats-rongronggg9.vercel.app/api?username=Rongronggg9&count_private=true&show_icons=true&theme=buefy&custom_title=🧶%20Rongrong%20is%20vibrating" alt="Rongronggg9's GitHub Stats">
 
 - 🐍 Python: senior
 - 🦈 Dockerfile: senior
@@ -35,4 +37,4 @@ Here are some ideas to get you started:
 - 🍥 OS: Debian testing
 - 💬 Pronouns: she/her
 - 📫 E-mail: i#rong.moe
-- 📣 Babel: `	cmn`, `en`, `yue` (L1), `zh-Hans`, `zh-Hant`
+- 📣 Babel: `cmn`, `en`, `yue` (L1), `zh-Hans`, `zh-Hant`
