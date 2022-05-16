@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 <img align="right" src="https://github-readme-stats-rongronggg9.vercel.app/api?username=Rongronggg9&count_private=true&show_icons=true&theme=buefy&custom_title=🧶%20Rongrong%20is%20vibrating" alt="Rongronggg9's GitHub Stats">
 
 - 🐍 Python: senior
-- 🦈 Dockerfile: senior
+- 🦈 Docker: senior
 - 📦 JavaScript: junior
 - 👀 C/C++: junior
 - 🎨 Graphic design: junior
@@ -35,6 +35,7 @@ Here are some ideas to get you started:
 - 🎬 Non-linear editing: junior
 - 📱 GUI: baby
 - 🍥 OS: Debian testing
-- 💬 Pronouns: she/her
-- 📫 E-mail: i#rong.moe
+- 💭 Pronouns: she/her
+- 📫 E-mail: [i@rong.moe](mailto:i@rong.moe)
+- 💬 Telegram: [@RongrongNyaa](https://t.me/RongrongNyaa)
 - 📣 Babel: `cmn`, `en`, `yue` (L1), `zh-Hans`, `zh-Hant`
