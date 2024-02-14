@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 <img align="right" src="https://github-readme-stats-rongronggg9.vercel.app/api?username=Rongronggg9&include_all_commits=true&count_private=true&show_icons=true&theme=buefy&custom_title=🧶%20Rongrong%20is%20vibrating" alt="Rongronggg9's GitHub Stats">
 
 - 🐍 Python: senior
-- 🦈 Docker: senior
+- 🦈 Docker: senio
 - 📦 JavaScript: junior
 - 👀 C/C++: junior
 - 🎨 Graphic design: junior
