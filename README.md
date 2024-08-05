@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 - 📷 Photography: junior
 - 🎬 Non-linear editing: junior
 - 📱 GUI: baby
-- 🍥 OS: Debian testing w/ KDE Plasma
+- 🍥 OS: Debian sid (unstable) w/ KDE Plasma
 - 💭 Pronouns: she/her
 - 📫 E-mail: [i@rong.moe](mailto:i@rong.moe)
 - 💬 Telegram: [@RongrongNyaa](https://t.me/RongrongNyaa)
